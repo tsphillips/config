@@ -1,0 +1,5 @@
+shell -${SHELL}
+defscrollback 4098
+startup_message off
+caption always "%{= kc}%H (system load: %l)%-21=%{= .m}%D %d.%m.%Y %0c"
+escape ``
